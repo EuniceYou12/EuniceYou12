@@ -57,8 +57,8 @@
 </div>
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuniceYou12&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=EuniceYou12&show_icons=true">
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=EuniceYou12&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username={EuniceYou12(string)})](https://github.com/EuniceYou12/github-readme-stats)">
+<img src="[https://github-readme-stats.vercel.app/api?username=EuniceYou12&show_icons=true](https://github-readme-stats.vercel.app/api?username=EuniceYou12&show_icons=true&theme=radical)">
 
 
 
