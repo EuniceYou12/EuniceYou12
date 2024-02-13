@@ -57,15 +57,10 @@
 </div>
 <div align=center>
 	<br>
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=EuniceYou12&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username={EuniceYou12(string)})](https://github.com/EuniceYou12/github-readme-stats)">
-<img src="[https://github-readme-stats.vercel.app/api?username=EuniceYou12&show_icons=true](https://github-readme-stats.vercel.app/api?username=EuniceYou12&show_icons=true&theme=radical)">
-
-
-
 <br>
 <p>🏆 solved rank 🏆</p>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=EuniceYou12)](https://solved.ac/EuniceYou12)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=EuniceYou)](https://solved.ac/EuniceYou12)
 
 </div>
 <br>
