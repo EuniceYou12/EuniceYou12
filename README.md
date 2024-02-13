@@ -57,9 +57,7 @@
 </div>
 <div align=center>
 	<br>
-
  ![Eunice's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuniceYou12&show_icons=true&theme=radical)
- 
 <br>
 <p>🏆 solved rank 🏆</p>
 	
@@ -70,7 +68,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEuniceYou12%2FEuniceYou12&count_bg=%23A895E3&title_bg=%235CD7ED&icon=&icon_color=%230109A6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 <br>
-
-
 
 ![](./profile-3d-contrib/profile-3d-contrib/profile-south-season-animate.svg)
