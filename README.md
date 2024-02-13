@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=EuniceYou12&show_icons=true&theme=radical)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-3d-contrib/profile-south-season-animate.svg)
