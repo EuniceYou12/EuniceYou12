@@ -57,7 +57,9 @@
 </div>
 <div align=center>
 	<br>
+	
  ![Eunice's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuniceYou12&show_icons=true&theme=radical)
+	
 <br>
 <p>🏆 solved rank 🏆</p>
 	
