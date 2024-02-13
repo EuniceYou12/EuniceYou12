@@ -69,7 +69,8 @@
 
 </div>
 <br>
-[![Eunice's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuniceYou12&layout=donut)](https://github.com/EuniceYou12/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuniceYou12&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Eunice's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuniceYou12&show_icons=true&theme=radical)
 
